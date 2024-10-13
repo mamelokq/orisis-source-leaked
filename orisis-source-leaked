@@ -7,7 +7,7 @@ if not LPH_OBFUSCATED then --  set these if not obfuscated so your script can ru
     end
 end
 -- dne exclusive
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/cat"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/mamelokq/libary-orisis/refs/heads/main/libary"))()
 local LinoriaNotifs = loadstring(game:HttpGet("https://pastebin.com/raw/T8K6dsf3"))()
 getgenv().WatermarkColor = Color3.fromRGB(255, 0, 125)
 local DLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/dnelol/3d-drawing/main/code.lua"))()
